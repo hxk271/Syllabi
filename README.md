@@ -9,7 +9,7 @@
 
 - **(대학원) 계량분석** [8969001(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969001(2021-2).pdf)
 
-- **(학부) 사회학강독** [5663062(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/c992c603aa83e3a1dd1ad8c6f7841b669a604e55/5663062(2021-2).pdf)
+- **(학부) 사회학강독** [5663062(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663062(2021-2).pdf)
 
 - **(학부) 사회통계실습** [8969001(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663062(2021-2).pdf)
 

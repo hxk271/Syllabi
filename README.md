@@ -12,7 +12,7 @@
 
 - **(학부) 사회학강독** [5663062(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663062(2021-2).pdf)
 
-- **(학부) 사회통계실습** [8969001(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663062(2021-2).pdf)
+- **(학부) 사회통계실습** [5663018(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2021-2).pdf)
 
 
 이번 학기에는 별도의 안내가 없는 이상 대면 강의를 원칙으로 삼고 있습니다. :+1:

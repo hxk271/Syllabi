@@ -6,7 +6,7 @@
 
 <br/>
 
-# 2021년 2학기(충북대학교 사회학과)
+## 2021년 2학기(충북대학교 사회학과)
 
 - **(대학원) 계량분석** [8969001(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969001(2021-2).pdf)
 
@@ -23,7 +23,7 @@
 <br/>
 
 
-# 2017년 2학기(미국 펜실베이니아 주립대학교 사회학과)
+## 2017년 2학기(미국 펜실베이니아 주립대학교 사회학과)
 
 - **(학부) Intermediate Social Statistics** [Soc470!2017Spring.pdf](https://github.com/hxk271/Syllabi/blob/main/Soc470!2017Spring.pdf)
 

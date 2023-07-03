@@ -11,6 +11,17 @@
 
 <br/>
 
+## 2023년 2학기(충북대학교 사회학과)
+
+- **(학부) 사회통계연습** [5663018(2022-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2023-2).pdf)
+
+- **(학부) 소셜데이터 과학** [5663075(2022-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663075(2023-2).pdf)
+
+- **(대학원) 계량분석 I** [8969001(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969001(2023-2).pdf)
+
+
+<br/>
+
 ## 2023년 1학기(충북대학교 사회학과)
 
 - **(학부) 사회통계** [5663011(2023-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663011(2023-1).pdf)
@@ -18,9 +29,6 @@
 - **(학부) 사회조사방법론** [5663014(2023-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663014(2023-1).pdf)
 
 - **(대학원) 사회학방법론연습** [8969061(2023-1).pdf](https://github.com/hxk271/Syllabi/blob/main/8969061(2023-1).pdf)
-
-
-모든 수업은 별도 안내가 없는 이상 대면 강의로 진행됩니다.
 
 
 <br/>

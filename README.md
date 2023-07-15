@@ -17,6 +17,17 @@
 
 - **(학부) 소셜데이터 과학** [5663075(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663075(2023-2).pdf)
 
+- **(대학원) 계량분석1** [8969058(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969058(2023-2).pdf)
+
+
+<br/>
+
+## 2023년 2학기(충북대학교 사회학과)
+
+- **(학부) 사회통계연습** [5663018(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2023-2).pdf)
+
+- **(학부) 소셜데이터 과학** [5663075(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663075(2023-2).pdf)
+
 - **(대학원) 계량분석 I** [8969001(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969001(2023-2).pdf)
 
 

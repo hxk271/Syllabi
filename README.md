@@ -11,6 +11,17 @@
 
 <br/>
 
+## 2024년 1학기(충북대학교 사회학과)
+
+- **(학부) 사회통계** [5663011(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663011(2024-1).pdf)
+
+- **(학부) 사회조사방법론** [5663014(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663014(2024-1).pdf)
+
+- **(대학원) 사회학자를 위한 데이터사이언스** [8969061(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/8969061(2024-1).pdf)
+
+
+<br/>
+
 ## 2023년 2학기(충북대학교 사회학과)
 
 - **(학부) 사회통계연습** [5663018(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2023-2).pdf)

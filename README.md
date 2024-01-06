@@ -17,7 +17,7 @@
 
 - **(학부) 사회조사방법론** [5663014(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663014(2024-1).pdf)
 
-- **(대학원) 사회학자를 위한 데이터사이언스** [8969061(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/8969061(2024-1).pdf)
+- **(대학원) 사회학자를 위한 데이터사이언스** [8969082(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/8969082(2024-1).pdf)
 
 
 <br/>

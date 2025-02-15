@@ -11,6 +11,19 @@
 
 <br/>
 
+## 2025년 1학기(충북대학교 사회학과)
+
+- **(학부) 사회통계** [5663011(2025-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663011(2025-1).pdf)
+
+- **(학부) 사회조사방법론** [5663014(2025-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663014(2025-1).pdf)
+
+- **(대학원) 범주형 자료분석** [8969087(2025-1).pdf](https://github.com/hxk271/Syllabi/blob/main/8969087(2025-1).pdf)
+
+- **(대학원) 연구윤리 및 연구과제 I**
+
+
+<br/>
+
 ## 2024년 2학기(충북대학교 사회학과)
 
 - **(학부) 사회통계연습** [5663018(2024-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2024-2).pdf)

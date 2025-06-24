@@ -13,11 +13,11 @@
 
 ## 2025년 2학기(충북대학교 사회학과)
 
-- **(학부) 사회통계연습** [5663018(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2025-2).pdf)
+- **(학부) 사회통계연습** [5663018(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663018(2025-2).pdf)
 
-- **(학부) 소셜데이터사이언스** [5663075(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663075(2025-2).pdf)
+- **(학부) 소셜데이터사이언스** [5663075(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663075(2025-2).pdf)
 
-- **(대학원) 사회학방법론연습** [8969061(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969061(2025-2).pdf)
+- **(대학원) 사회학방법론연습** [8969061(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969061(2025-2).pdf)
 
 - **(대학원) 연구윤리 및 연구과제 I**
 
@@ -26,11 +26,11 @@
 
 ## 2025년 1학기(충북대학교 사회학과)
 
-- **(학부) 사회통계** [5663011(2025-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663011(2025-1).pdf)
+- **(학부) 사회통계** [5663011(2025-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663011(2025-1).pdf)
 
-- **(학부) 사회조사방법론** [5663014(2025-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663014(2025-1).pdf)
+- **(학부) 사회조사방법론** [5663014(2025-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663014(2025-1).pdf)
 
-- **(대학원) 범주형 자료분석** [8969087(2025-1).pdf](https://github.com/hxk271/Syllabi/blob/main/8969087(2025-1).pdf)
+- **(대학원) 범주형 자료분석** [8969087(2025-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969087(2025-1).pdf)
 
 - **(대학원) 연구윤리 및 연구과제 I**
 
@@ -39,55 +39,55 @@
 
 ## 2024년 2학기(충북대학교 사회학과)
 
-- **(학부) 사회통계연습** [5663018(2024-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2024-2).pdf)
+- **(학부) 사회통계연습** [5663018(2024-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663018(2024-2).pdf)
 
-- **(학부) 소셜데이터사이언스** [5663075(2024-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663075(2024-2).pdf)
+- **(학부) 소셜데이터사이언스** [5663075(2024-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663075(2024-2).pdf)
 
-- **(대학원) 계량분석** [8969001(2024-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969001(2024-2).pdf)
+- **(대학원) 계량분석** [8969001(2024-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969001(2024-2).pdf)
 
 
 <br/>
 
 ## 2024년 1학기(충북대학교 사회학과)
 
-- **(학부) 사회통계** [5663011(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663011(2024-1).pdf)
+- **(학부) 사회통계** [5663011(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663011(2024-1).pdf)
 
-- **(학부) 사회조사방법론** [5663014(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663014(2024-1).pdf)
+- **(학부) 사회조사방법론** [5663014(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663014(2024-1).pdf)
 
-- **(대학원) 사회학자를 위한 데이터사이언스** [8969082(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/8969082(2024-1).pdf)
+- **(대학원) 사회학자를 위한 데이터사이언스** [8969082(2024-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969082(2024-1).pdf)
 
 
 <br/>
 
 ## 2023년 2학기(충북대학교 사회학과)
 
-- **(학부) 사회통계연습** [5663018(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2023-2).pdf)
+- **(학부) 사회통계연습** [5663018(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663018(2023-2).pdf)
 
-- **(학부) 소셜데이터 과학** [5663075(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663075(2023-2).pdf)
+- **(학부) 소셜데이터 과학** [5663075(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663075(2023-2).pdf)
 
-- **(대학원) 계량분석 I** [8969001(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969001(2023-2).pdf)
+- **(대학원) 계량분석 I** [8969001(2023-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969001(2023-2).pdf)
 
 
 <br/>
 
 ## 2023년 1학기(충북대학교 사회학과)
 
-- **(학부) 사회통계** [5663011(2023-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663011(2023-1).pdf)
+- **(학부) 사회통계** [5663011(2023-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663011(2023-1).pdf)
 
-- **(학부) 사회조사방법론** [5663014(2023-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663014(2023-1).pdf)
+- **(학부) 사회조사방법론** [5663014(2023-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663014(2023-1).pdf)
 
-- **(대학원) 사회학방법론연습** [8969061(2023-1).pdf](https://github.com/hxk271/Syllabi/blob/main/8969061(2023-1).pdf)
+- **(대학원) 사회학방법론연습** [8969061(2023-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969061(2023-1).pdf)
 
 
 <br/>
 
 ## 2022년 2학기(충북대학교 사회학과)
 
-- **(학부) 사회통계연습** [5663018(2022-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2022-2).pdf)
+- **(학부) 사회통계연습** [5663018(2022-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663018(2022-2).pdf)
 
-- **(학부) 소셜데이터 과학** [5663075(2022-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663075(2022-2).pdf)
+- **(학부) 소셜데이터 과학** [5663075(2022-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663075(2022-2).pdf)
 
-- **(대학원) 조직사회학 세미나** [8969058(2022-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969058(2022-2).pdf)
+- **(대학원) 조직사회학 세미나** [8969058(2022-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969058(2022-2).pdf)
 
 
 모든 수업은 별도 안내가 없는 이상 대면 강의로 진행됩니다.
@@ -97,11 +97,11 @@
 
 ## 2022년 1학기(충북대학교 사회학과)
 
-- **(학부) 사회통계** [5663011(2022-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663011(2022-1).pdf)
+- **(학부) 사회통계** [5663011(2022-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663011(2022-1).pdf)
 
-- **(학부) 사회조사방법론** [5663014(2022-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663014(2022-1).pdf)
+- **(학부) 사회조사방법론** [5663014(2022-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663014(2022-1).pdf)
 
-- **(학부) 일과 직업의 사회학** [5663058(2022-1).pdf](https://github.com/hxk271/Syllabi/blob/main/5663058(2022-1).pdf)
+- **(학부) 일과 직업의 사회학** [5663058(2022-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663058(2022-1).pdf)
 
 
 모든 수업은 별도 안내가 없는 이상 대면 강의로 진행됩니다. 학교 전체 학생의 10% 혹은 강의별 수강인원의 20%가 확진될 경우 **일시적으로** 비대면으로 수업이 진행됩니다.
@@ -111,11 +111,11 @@
 
 ## 2021년 2학기(충북대학교 사회학과)
 
-- **(대학원) 계량분석** [8969001(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969001(2021-2).pdf)
+- **(대학원) 계량분석** [8969001(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969001(2021-2).pdf)
 
-- **(학부) 사회학강독** [5663062(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663062(2021-2).pdf)
+- **(학부) 사회학강독** [5663062(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663062(2021-2).pdf)
 
-- **(학부) 사회통계연습** [5663018(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2021-2).pdf)
+- **(학부) 사회통계연습** [5663018(2021-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663018(2021-2).pdf)
 
 
 8월 19일 현재 청주시 사회적 거리두기가 3단계인 관계로 강의실 정원대비 수강인원이 50% 이상인 과목은 일괄적으로 비대면 수업이 됩니다.
@@ -128,7 +128,7 @@
 
 ## 2017년 2학기(미국 펜실베이니아 주립대학교 사회학과)
 
-- **(학부) Intermediate Social Statistics** [Soc470!2017Spring.pdf](https://github.com/hxk271/Syllabi/blob/main/Soc470!2017Spring.pdf)
+- **(학부) Intermediate Social Statistics** [Soc470!2017Spring.pdf](https://github.com/hxk271/Syllabi/blob/main/archive/Soc470!2017Spring.pdf)
 
 
 

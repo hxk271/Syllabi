@@ -13,11 +13,11 @@
 
 ## 2025년 2학기(충북대학교 사회학과)
 
-- **(학부) 사회통계연습** [5663018(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663018(2025-2).pdf)
+- **(학부) 사회통계연습** [5663018(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663018(2025-2).pdf)
 
-- **(학부) 소셜데이터사이언스** [5663075(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663075(2025-2).pdf)
+- **(학부) 소셜데이터사이언스** [5663075(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/5663075(2025-2).pdf)
 
-- **(대학원) 사회학방법론연습** [8969061(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969061(2025-2).pdf)
+- **(대학원) 사회학방법론연습** [8969061(2025-2).pdf](https://github.com/hxk271/Syllabi/blob/main/8969061(2025-2).pdf)
 
 - **(대학원) 연구윤리 및 연구과제 I**
 

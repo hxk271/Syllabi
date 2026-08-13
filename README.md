@@ -11,6 +11,17 @@
 
 <br/>
 
+## 2025년 2학기(충북대학교 사회학과)
+
+- **(학부) 사회통계연습** [5663018(2026-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663018(2026-2).pdf)
+
+- **(학부) 소셜데이터사이언스** [5663075(2026-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663075(2026-2).pdf)
+
+- **(대학원) 계량분석** [8969001(2026-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969001(2026-2).pdf)
+
+
+<br/>
+
 ## 2026년 1학기(충북대학교 사회학과)
 
 - **(학부) 사회통계** [5663011(2026-1).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663011(2026-1).pdf)

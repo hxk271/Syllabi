@@ -15,9 +15,9 @@
 
 - **(학부) 사회통계연습** [5663018(2026-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663018(2026-2).pdf)
 
-- **(학부) 소셜데이터사이언스** [5663075(2026-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663075(2026-2).pdf)
+- **(학부) 소셜데이터사이언스** [5663077(2026-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/5663077(2026-2).pdf)
 
-- **(대학원) 계량분석** [8969001(2026-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969001(2026-2).pdf)
+- **(대학원) 계량분석** [8969078(2026-2).pdf](https://github.com/hxk271/Syllabi/blob/main/archive/8969078(2026-2).pdf)
 
 
 <br/>
